@@ -1,0 +1,5 @@
+p, SCCM, /dataset1/*, GET
+p, STANDARD, /dataset1/resource1, POST
+p, STANDARD, /dataset2/resource1, *
+p, STANDARD, /dataset2/resource2, GET
+p, STANDARD, /dataset2/folder1/*, POST
